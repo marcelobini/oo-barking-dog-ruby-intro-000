@@ -1,11 +1,8 @@
 # Your code goes here!
 class Dog
 
-
-
-
 def bark
   puts "Woof!"
 end
-meghan = Dog.new
+fido = Dog.new
 end
