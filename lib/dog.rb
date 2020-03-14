@@ -1,9 +1,10 @@
 # Your code goes here!
 class Dog
-end
 
-fido = Dog.new
+
+meghan = Dog.new
 
 def bark
   puts "Woof!"
+end
 end
