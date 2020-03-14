@@ -2,9 +2,10 @@
 class Dog
 
 
-meghan = Dog.new
+
 
 def bark
   puts "Woof!"
 end
+meghan = Dog.new
 end
